@@ -1,0 +1,4 @@
+ls
+Hi
+Hello
+Good morning
