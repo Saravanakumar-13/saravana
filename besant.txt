@@ -1,4 +1,4 @@
-ls
+Good
 Hi
 Hello
 Good morning
